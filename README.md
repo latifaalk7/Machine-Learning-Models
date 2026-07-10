@@ -1,4 +1,4 @@
-# Machine-Learning-Repository
+# Annotated ML Concepts
 Regression, Classification, Tree-based Ensembles, Unsupervised Learning, Model Evaluation
 
 ## 📁 How the Folders are Organized
