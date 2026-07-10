@@ -1,5 +1,6 @@
-# Annotated ML Concepts
-Regression, Classification, Tree-based Ensembles, Unsupervised Learning, Model Evaluation
+# Annotated ML Models
+Using resources from the CBEHx Machine Learning Course, I have annotated key machine lerning models to understand the purpose of each method.
+To get access to the original resources, you can purchase the course here: [Data Science 2: Machine Learning](https://www.cbehx.co.uk/product/data-science-2-machine-learning/?srsltid=AfmBOorCqGHr3EZ-hH28juNNhWnL3LF_a9xXrcqxcMcGCPAsfawvtuNx)
 
 ## 📁 How the Folders are Organized
 
